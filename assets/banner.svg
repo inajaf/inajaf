@@ -89,7 +89,7 @@
     <!-- subtitle chips -->
     <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">
       <rect x="72" y="240" width="118" height="28" rx="8" fill="rgba(34,211,238,0.10)" stroke="#22d3ee" stroke-opacity="0.35"/>
-      <text x="131" y="258" text-anchor="middle" fill="#a5f3fc">Go / Rust</text>
+      <text x="131" y="258" text-anchor="middle" fill="#a5f3fc">Go / gRPC</text>
 
       <rect x="202" y="240" width="150" height="28" rx="8" fill="rgba(99,102,241,0.10)" stroke="#818cf8" stroke-opacity="0.35"/>
       <text x="277" y="258" text-anchor="middle" fill="#c7d2fe">Distributed</text>
@@ -119,8 +119,8 @@
         <circle cx="40" cy="40" r="34" fill="none" stroke="rgba(148,163,184,0.12)" stroke-width="6"/>
         <circle cx="40" cy="40" r="34" fill="none" stroke="#38bdf8" stroke-width="6" stroke-linecap="round"
                 stroke-dasharray="160" stroke-dashoffset="58" transform="rotate(-90 40 40)"/>
-        <text x="40" y="36" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="14" fill="#ecf2ff" font-weight="700">RS</text>
-        <text x="40" y="52" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="10" fill="#8b96ad">SYS</text>
+        <text x="40" y="36" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="14" fill="#ecf2ff" font-weight="700">gRPC</text>
+        <text x="40" y="52" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="10" fill="#8b96ad">SVC</text>
       </g>
 
       <g transform="translate(200, 55)">

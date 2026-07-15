@@ -51,7 +51,7 @@ alive rather than static.
         Futuristic menu-bar system monitor for macOS.<br/>
         Glass HUD gauges for CPU / GPU / RAM / Disk, top processes, native alerts.
       </p>
-      <code>Tauri · SvelteKit · Rust</code>
+      <code>Tauri · SvelteKit · macOS</code>
     </td>
     <td width="50%" valign="top">
       <h3>📘 <a href="https://github.com/inajaf/go-professional">go-professional</a></h3>
