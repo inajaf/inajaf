@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="assets/banner.svg" alt="Eldar Najafov — Software Engineer" width="100%" />
+  <img src="assets/banner.svg" alt="Eldar Najafov - Software Engineer" width="100%" />
 </div>
 
 <br/>
@@ -22,7 +22,7 @@
 ## ▸ About
 
 Software engineer focused on **production Go**, **distributed systems**, and
-**tools with a pulse** — from interactive courses to macOS HUD monitors.
+**tools with a pulse** - from interactive courses to macOS HUD monitors.
 
 I care about clean architecture, real tests, and interfaces that feel
 alive rather than static.
@@ -75,7 +75,7 @@ alive rather than static.
     <td width="50%" valign="top">
       <h3>🎬 <a href="https://github.com/inajaf/video-enhance">video-enhance</a></h3>
       <p>
-        Local web UI for video cleanup and AI upscaling —
+        Local web UI for video cleanup and AI upscaling -
         privacy-first processing on your machine.
       </p>
       <code>Go · local AI · web UI</code>
@@ -105,14 +105,10 @@ alive rather than static.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=000" alt="Rust" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/AI_agents-22d3ee?style=flat-square&logo=openai&logoColor=white" alt="AI agents" />
   <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" alt="gRPC" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Microservices-6366f1?style=flat-square&logo=kubernetes&logoColor=white" alt="Microservices" />
 </p>
 
 ---
@@ -155,7 +151,7 @@ alive rather than static.
 
 <p align="center">
   <sub>
-    <code>// designed like a HUD — not a résumé dump</code><br/>
+    <code>// designed like a HUD - not a resume dump</code><br/>
     <a href="https://github.com/inajaf">github.com/inajaf</a>
     ·
     <a href="https://inajaf.github.io/go-professional">go-professional</a>

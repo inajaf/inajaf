@@ -15,7 +15,7 @@
   <circle cx="24" cy="19" r="5" fill="#fb7185"/>
   <circle cx="42" cy="19" r="5" fill="#fbbf24"/>
   <circle cx="60" cy="19" r="5" fill="#22d3ee"/>
-  <text x="450" y="23" text-anchor="middle" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">inajaf — session</text>
+  <text x="450" y="23" text-anchor="middle" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">inajaf - session</text>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">
     <text x="28" y="72" fill="#8b96ad">$</text>
