@@ -75,9 +75,10 @@ alive rather than static.
 
 ## ▸ Telemetry
 
+<!-- Public github-readme-stats.vercel.app is often paused; use community mirror -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=inajaf&show_icons=true&theme=radical&hide_border=true&bg_color=05070d&title_color=22d3ee&icon_color=38bdf8&text_color=ecf2ff&ring_color=22d3ee" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inajaf&layout=compact&theme=radical&hide_border=true&bg_color=05070d&title_color=22d3ee&text_color=ecf2ff" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=inajaf&show_icons=true&theme=radical&hide_border=true&bg_color=05070d&title_color=22d3ee&icon_color=38bdf8&text_color=ecf2ff&ring_color=22d3ee&cache_seconds=1800" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=inajaf&layout=compact&theme=radical&hide_border=true&bg_color=05070d&title_color=22d3ee&text_color=ecf2ff&cache_seconds=1800" alt="Top languages" />
 </div>
 
 <br/>
