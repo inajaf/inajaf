@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="306" viewBox="0 0 480 306" role="img" aria-label="Top languages for inajaf">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05070d"/>
+      <stop offset="100%" stop-color="#0a1220"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="306" rx="14" fill="url(#bg2)" stroke="rgba(148,163,184,0.16)"/>
+  <circle cx="22" cy="24" r="4" fill="#38bdf8"/>
+  <text x="36" y="28" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad" letter-spacing="1.5">TOP LANGUAGES</text>
+  <text x="456" y="28" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="11" fill="#38bdf8">by bytes</text>
+  <line x1="16" y1="44" x2="464" y2="44" stroke="rgba(56,189,248,0.25)" stroke-width="1"/>
+  
+  <text x="24" y="68" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#ecf2ff">JavaScript</text>
+  <text x="456" y="68" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">63.4%</text>
+  <rect x="24" y="76" width="320" height="8" rx="4" fill="rgba(148,163,184,0.10)"/>
+  <rect x="24" y="76" width="202" height="8" rx="4" fill="#f1e05a"/>
+
+  <text x="24" y="104" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#ecf2ff">Go</text>
+  <text x="456" y="104" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">27.4%</text>
+  <rect x="24" y="112" width="320" height="8" rx="4" fill="rgba(148,163,184,0.10)"/>
+  <rect x="24" y="112" width="87" height="8" rx="4" fill="#00ADD8"/>
+
+  <text x="24" y="140" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#ecf2ff">CSS</text>
+  <text x="456" y="140" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">5.6%</text>
+  <rect x="24" y="148" width="320" height="8" rx="4" fill="rgba(148,163,184,0.10)"/>
+  <rect x="24" y="148" width="17" height="8" rx="4" fill="#563d7c"/>
+
+  <text x="24" y="176" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#ecf2ff">Rust</text>
+  <text x="456" y="176" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">1.3%</text>
+  <rect x="24" y="184" width="320" height="8" rx="4" fill="rgba(148,163,184,0.10)"/>
+  <rect x="24" y="184" width="8" height="8" rx="4" fill="#dea584"/>
+
+  <text x="24" y="212" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#ecf2ff">HTML</text>
+  <text x="456" y="212" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">0.8%</text>
+  <rect x="24" y="220" width="320" height="8" rx="4" fill="rgba(148,163,184,0.10)"/>
+  <rect x="24" y="220" width="8" height="8" rx="4" fill="#e34c26"/>
+
+  <text x="24" y="248" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#ecf2ff">Svelte</text>
+  <text x="456" y="248" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">0.8%</text>
+  <rect x="24" y="256" width="320" height="8" rx="4" fill="rgba(148,163,184,0.10)"/>
+  <rect x="24" y="256" width="8" height="8" rx="4" fill="#ff3e00"/>
+
+  <text x="24" y="294" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="9" fill="#5b6478">updated 2026-07-15 21:55 UTC · self-hosted</text>
+</svg>
