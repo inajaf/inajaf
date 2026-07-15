@@ -44,32 +44,18 @@ alive rather than static.
 ## ▸ Featured systems
 
 <div align="center">
-  <a href="https://github.com/inajaf/pulsebar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=inajaf&repo=pulsebar&theme=radical&hide_border=true&bg_color=05070d&title_color=22d3ee&icon_color=38bdf8&text_color=94a3b8&description_lines_count=2" alt="pulsebar" height="120" />
-  </a>
-  <a href="https://github.com/inajaf/go-professional">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=inajaf&repo=go-professional&theme=radical&hide_border=true&bg_color=05070d&title_color=22d3ee&icon_color=38bdf8&text_color=94a3b8&description_lines_count=2" alt="go-professional" height="120" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/inajaf/learn-and-go">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=inajaf&repo=learn-and-go&theme=radical&hide_border=true&bg_color=05070d&title_color=22d3ee&icon_color=38bdf8&text_color=94a3b8&description_lines_count=2" alt="learn-and-go" height="120" />
-  </a>
-  <a href="https://github.com/inajaf/video-enhance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=inajaf&repo=video-enhance&theme=radical&hide_border=true&bg_color=05070d&title_color=22d3ee&icon_color=38bdf8&text_color=94a3b8&description_lines_count=2" alt="video-enhance" height="120" />
-  </a>
+  <img src="assets/systems.svg" alt="Featured systems" width="92%" />
 </div>
 
 <p align="center">
   <a href="https://inajaf.github.io/go-professional">
-    <img src="https://img.shields.io/badge/LIVE-go--professional_course-22d3ee?style=flat-square&labelColor=05070d" alt="Open course" />
+    <img src="https://img.shields.io/badge/LIVE-course-22d3ee?style=flat-square&labelColor=05070d" alt="Open course" />
   </a>
   <a href="https://github.com/inajaf/learning-materials">
-    <img src="https://img.shields.io/badge/LIB-learning--materials-38bdf8?style=flat-square&labelColor=05070d" alt="learning-materials" />
+    <img src="https://img.shields.io/badge/LIB-materials-38bdf8?style=flat-square&labelColor=05070d" alt="learning-materials" />
   </a>
   <a href="https://github.com/inajaf/homebrew-tap">
-    <img src="https://img.shields.io/badge/DIST-homebrew--tap-818cf8?style=flat-square&labelColor=05070d" alt="homebrew-tap" />
+    <img src="https://img.shields.io/badge/DIST-brew_tap-818cf8?style=flat-square&labelColor=05070d" alt="homebrew-tap" />
   </a>
 </p>
 
