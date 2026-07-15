@@ -92,28 +92,3 @@ alive rather than static.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=inajaf&bg_color=05070d&color=22d3ee&line=38bdf8&point=818cf8&area=true&area_color=22d3ee&hide_border=true&custom_title=Contribution%20signal" alt="Contribution activity graph" width="95%" />
 </div>
 
----
-
-## ▸ Now
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  STATUS     focusing                                        │
-│  BUILDING   pulsebar · go-professional · local tools        │
-│  LEARNING   deeper distributed systems · desktop UX         │
-│  SIGNAL     clean code · real tests · cinematic UI          │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<p align="center">
-  <img src="assets/divider.svg" alt="" width="50%" />
-</p>
-
-<p align="center">
-  <sub>
-    <code>// designed like a HUD - not a resume dump</code><br/>
-    <a href="https://github.com/inajaf">github.com/inajaf</a>
-    ·
-    <a href="https://inajaf.github.io/go-professional">go-professional</a>
-  </sub>
-</p>
