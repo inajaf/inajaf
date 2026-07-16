@@ -29,13 +29,13 @@ alive rather than static.
 
 <p align="center">
   <a href="https://inajaf.github.io/go-professional">
-    <img src="https://img.shields.io/badge/Course-Go_Professional-22d3ee?style=for-the-badge&labelColor=05070d&logo=go&logoColor=22d3ee" alt="Go Professional" />
+    <img src="https://img.shields.io/badge/Course-Go_Professional-00ADD8?style=for-the-badge&labelColor=0b1220&logo=go&logoColor=00ADD8" alt="Go Professional" />
   </a>
   <a href="https://github.com/inajaf/pulsebar">
-    <img src="https://img.shields.io/badge/App-Pulsebar-38bdf8?style=for-the-badge&labelColor=05070d&logo=apple&logoColor=38bdf8" alt="Pulsebar" />
+    <img src="https://img.shields.io/badge/App-Pulsebar-5dc9e2?style=for-the-badge&labelColor=0b1220&logo=apple&logoColor=5dc9e2" alt="Pulsebar" />
   </a>
   <a href="https://github.com/inajaf">
-    <img src="https://img.shields.io/badge/GitHub-@inajaf-818cf8?style=for-the-badge&labelColor=05070d&logo=github&logoColor=c7d2fe" alt="@inajaf" />
+    <img src="https://img.shields.io/badge/GitHub-@inajaf-3d8db5?style=for-the-badge&labelColor=0b1220&logo=github&logoColor=b3d7e6" alt="@inajaf" />
   </a>
 </p>
 
@@ -49,13 +49,13 @@ alive rather than static.
 
 <p align="center">
   <a href="https://inajaf.github.io/go-professional">
-    <img src="https://img.shields.io/badge/LIVE-course-22d3ee?style=flat-square&labelColor=05070d" alt="Open course" />
+    <img src="https://img.shields.io/badge/LIVE-course-00ADD8?style=flat-square&labelColor=0b1220" alt="Open course" />
   </a>
   <a href="https://github.com/inajaf/learning-materials">
-    <img src="https://img.shields.io/badge/LIB-materials-38bdf8?style=flat-square&labelColor=05070d" alt="learning-materials" />
+    <img src="https://img.shields.io/badge/LIB-materials-5dc9e2?style=flat-square&labelColor=0b1220" alt="learning-materials" />
   </a>
   <a href="https://github.com/inajaf/homebrew-tap">
-    <img src="https://img.shields.io/badge/DIST-brew_tap-818cf8?style=flat-square&labelColor=05070d" alt="homebrew-tap" />
+    <img src="https://img.shields.io/badge/DIST-brew_tap-3d8db5?style=flat-square&labelColor=0b1220" alt="homebrew-tap" />
   </a>
 </p>
 
@@ -66,9 +66,9 @@ alive rather than static.
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/AI_agents-22d3ee?style=flat-square&logo=openai&logoColor=white" alt="AI agents" />
+  <img src="https://img.shields.io/badge/AI_agents-00ADD8?style=flat-square&logo=openai&logoColor=white" alt="AI agents" />
   <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" alt="gRPC" />
-  <img src="https://img.shields.io/badge/Microservices-6366f1?style=flat-square&logo=kubernetes&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Microservices-0090b4?style=flat-square&logo=kubernetes&logoColor=white" alt="Microservices" />
 </p>
 
 ---

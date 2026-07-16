@@ -176,24 +176,24 @@ def render_stats(data: dict) -> str:
         cards.append(
             f"""
   <g transform="translate({x},{y})">
-    <rect width="136" height="72" rx="10" fill="rgba(13,19,33,0.72)" stroke="rgba(34,211,238,0.18)"/>
+    <rect width="136" height="72" rx="10" fill="rgba(13,19,33,0.72)" stroke="rgba(0,173,216,0.18)"/>
     <text x="14" y="28" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="10" fill="#8b96ad" letter-spacing="1.2">{esc(label)}</text>
-    <text x="14" y="54" font-family="ui-sans-serif, system-ui, sans-serif" font-size="26" font-weight="700" fill="#ecf2ff">{esc(value)}</text>
+    <text x="14" y="54" font-family="ui-sans-serif, system-ui, sans-serif" font-size="26" font-weight="700" fill="#e6edf3">{esc(value)}</text>
   </g>"""
         )
 
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" viewBox="0 0 480 250" role="img" aria-label="GitHub stats for {esc(data['login'])}">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#05070d"/>
-      <stop offset="100%" stop-color="#0a1220"/>
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#0f1724"/>
     </linearGradient>
   </defs>
   <rect width="480" height="250" rx="14" fill="url(#bg)" stroke="rgba(148,163,184,0.16)"/>
-  <circle cx="22" cy="24" r="4" fill="#22d3ee"/>
+  <circle cx="22" cy="24" r="4" fill="#00ADD8"/>
   <text x="36" y="28" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad" letter-spacing="1.5">GITHUB STATS</text>
-  <text x="456" y="28" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="11" fill="#22d3ee">@{esc(data['login'])}</text>
-  <line x1="16" y1="44" x2="464" y2="44" stroke="rgba(34,211,238,0.25)" stroke-width="1"/>
+  <text x="456" y="28" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="11" fill="#00ADD8">@{esc(data['login'])}</text>
+  <line x1="16" y1="44" x2="464" y2="44" stroke="rgba(0,173,216,0.25)" stroke-width="1"/>
   {''.join(cards)}
   <text x="24" y="242" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="9" fill="#5b6478">updated {esc(data['generated_at'])} · self-hosted</text>
 </svg>
@@ -209,11 +209,11 @@ def render_langs(data: dict) -> str:
     y = 68
     max_bar = 320
     for name, pct, _bytes in langs:
-        color = LANG_COLORS.get(name, "#22d3ee")
+        color = LANG_COLORS.get(name, "#00ADD8")
         w = max(8, int(max_bar * (pct / 100)))
         bars.append(
             f"""
-  <text x="24" y="{y}" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#ecf2ff">{esc(name)}</text>
+  <text x="24" y="{y}" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#e6edf3">{esc(name)}</text>
   <text x="456" y="{y}" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">{pct}%</text>
   <rect x="24" y="{y + 8}" width="{max_bar}" height="8" rx="4" fill="rgba(148,163,184,0.10)"/>
   <rect x="24" y="{y + 8}" width="{w}" height="8" rx="4" fill="{color}"/>
@@ -225,15 +225,15 @@ def render_langs(data: dict) -> str:
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="480" height="{height}" viewBox="0 0 480 {height}" role="img" aria-label="Top languages for {esc(data['login'])}">
   <defs>
     <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#05070d"/>
-      <stop offset="100%" stop-color="#0a1220"/>
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#0f1724"/>
     </linearGradient>
   </defs>
   <rect width="480" height="{height}" rx="14" fill="url(#bg2)" stroke="rgba(148,163,184,0.16)"/>
-  <circle cx="22" cy="24" r="4" fill="#38bdf8"/>
+  <circle cx="22" cy="24" r="4" fill="#5dc9e2"/>
   <text x="36" y="28" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad" letter-spacing="1.5">TOP LANGUAGES</text>
-  <text x="456" y="28" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="11" fill="#38bdf8">by bytes</text>
-  <line x1="16" y1="44" x2="464" y2="44" stroke="rgba(56,189,248,0.25)" stroke-width="1"/>
+  <text x="456" y="28" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="11" fill="#5dc9e2">by bytes</text>
+  <line x1="16" y1="44" x2="464" y2="44" stroke="rgba(93,201,226,0.25)" stroke-width="1"/>
   {''.join(bars)}
   <text x="24" y="{height - 12}" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="9" fill="#5b6478">updated {esc(data['generated_at'])} · self-hosted</text>
 </svg>
