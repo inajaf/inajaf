@@ -5,10 +5,6 @@
 <br/>
 
 <div align="center">
-  <img src="assets/terminal.svg" alt="Terminal intro" width="92%" />
-</div>
-
-<div align="center">
   <img src="assets/divider.svg" alt="" width="70%" />
 </div>
 
@@ -36,8 +32,6 @@ alive rather than static.
 
 ---
 
-
-
 ## ▸ Stack
 
 <p align="center">
@@ -47,4 +41,3 @@ alive rather than static.
   <img src="https://img.shields.io/badge/Microservices-0090b4?style=flat-square&logo=kubernetes&logoColor=white" alt="Microservices" />
   <img src="https://img.shields.io/badge/AI_agents-00ADD8?style=flat-square&logo=openai&logoColor=white" alt="AI agents" />
 </p>
-
