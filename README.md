@@ -1,8 +1,3 @@
-<!--
-  GitHub Profile · inajaf
-  Futuristic glass-HUD design language (aligned with Pulsebar)
--->
-
 <div align="center">
   <img src="assets/banner.svg" alt="Eldar Najafov - Software Engineer" width="100%" />
 </div>
