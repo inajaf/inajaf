@@ -12,27 +12,27 @@
   <line x1="16" y1="44" x2="464" y2="44" stroke="rgba(93,201,226,0.25)" stroke-width="1"/>
   
   <text x="24" y="68" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#e6edf3">JavaScript</text>
-  <text x="456" y="68" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">57.5%</text>
+  <text x="456" y="68" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">58.2%</text>
   <rect x="24" y="76" width="320" height="8" rx="4" fill="rgba(148,163,184,0.10)"/>
-  <rect x="24" y="76" width="184" height="8" rx="4" fill="#f1e05a"/>
+  <rect x="24" y="76" width="186" height="8" rx="4" fill="#f1e05a"/>
 
   <text x="24" y="104" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#e6edf3">Go</text>
-  <text x="456" y="104" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">17.7%</text>
+  <text x="456" y="104" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">17.4%</text>
   <rect x="24" y="112" width="320" height="8" rx="4" fill="rgba(148,163,184,0.10)"/>
-  <rect x="24" y="112" width="56" height="8" rx="4" fill="#00ADD8"/>
+  <rect x="24" y="112" width="55" height="8" rx="4" fill="#00ADD8"/>
 
   <text x="24" y="140" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#e6edf3">TypeScript</text>
-  <text x="456" y="140" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">9.2%</text>
+  <text x="456" y="140" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">9.0%</text>
   <rect x="24" y="148" width="320" height="8" rx="4" fill="rgba(148,163,184,0.10)"/>
-  <rect x="24" y="148" width="29" height="8" rx="4" fill="#3178c6"/>
+  <rect x="24" y="148" width="28" height="8" rx="4" fill="#3178c6"/>
 
   <text x="24" y="176" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#e6edf3">CSS</text>
-  <text x="456" y="176" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">7.0%</text>
+  <text x="456" y="176" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">6.9%</text>
   <rect x="24" y="184" width="320" height="8" rx="4" fill="rgba(148,163,184,0.10)"/>
   <rect x="24" y="184" width="22" height="8" rx="4" fill="#563d7c"/>
 
   <text x="24" y="212" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#e6edf3">HTML</text>
-  <text x="456" y="212" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">4.0%</text>
+  <text x="456" y="212" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">3.9%</text>
   <rect x="24" y="220" width="320" height="8" rx="4" fill="rgba(148,163,184,0.10)"/>
   <rect x="24" y="220" width="12" height="8" rx="4" fill="#e34c26"/>
 
@@ -41,5 +41,5 @@
   <rect x="24" y="256" width="320" height="8" rx="4" fill="rgba(148,163,184,0.10)"/>
   <rect x="24" y="256" width="8" height="8" rx="4" fill="#00ADD8"/>
 
-  <text x="24" y="294" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="9" fill="#5b6478">updated 2026-08-11 07:36 UTC · self-hosted</text>
+  <text x="24" y="294" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="9" fill="#5b6478">updated 2026-08-11 19:20 UTC · self-hosted</text>
 </svg>
