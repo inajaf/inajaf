@@ -17,17 +17,17 @@
   <rect x="24" y="76" width="184" height="8" rx="4" fill="#f1e05a"/>
 
   <text x="24" y="104" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#e6edf3">Go</text>
-  <text x="456" y="104" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">17.3%</text>
+  <text x="456" y="104" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">16.9%</text>
   <rect x="24" y="112" width="320" height="8" rx="4" fill="rgba(148,163,184,0.10)"/>
-  <rect x="24" y="112" width="55" height="8" rx="4" fill="#00ADD8"/>
+  <rect x="24" y="112" width="54" height="8" rx="4" fill="#00ADD8"/>
 
   <text x="24" y="140" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#e6edf3">TypeScript</text>
-  <text x="456" y="140" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">9.5%</text>
+  <text x="456" y="140" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">9.2%</text>
   <rect x="24" y="148" width="320" height="8" rx="4" fill="rgba(148,163,184,0.10)"/>
-  <rect x="24" y="148" width="30" height="8" rx="4" fill="#3178c6"/>
+  <rect x="24" y="148" width="29" height="8" rx="4" fill="#3178c6"/>
 
   <text x="24" y="176" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#e6edf3">CSS</text>
-  <text x="456" y="176" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">7.0%</text>
+  <text x="456" y="176" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">6.9%</text>
   <rect x="24" y="184" width="320" height="8" rx="4" fill="rgba(148,163,184,0.10)"/>
   <rect x="24" y="184" width="22" height="8" rx="4" fill="#563d7c"/>
 
@@ -37,9 +37,9 @@
   <rect x="24" y="220" width="12" height="8" rx="4" fill="#e34c26"/>
 
   <text x="24" y="248" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#e6edf3">Kotlin</text>
-  <text x="456" y="248" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">2.1%</text>
+  <text x="456" y="248" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">2.7%</text>
   <rect x="24" y="256" width="320" height="8" rx="4" fill="rgba(148,163,184,0.10)"/>
   <rect x="24" y="256" width="8" height="8" rx="4" fill="#00ADD8"/>
 
-  <text x="24" y="294" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="9" fill="#5b6478">updated 2026-08-14 19:13 UTC · self-hosted</text>
+  <text x="24" y="294" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="9" fill="#5b6478">updated 2026-08-15 06:56 UTC · self-hosted</text>
 </svg>
