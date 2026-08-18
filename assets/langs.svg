@@ -37,9 +37,9 @@
   <rect x="24" y="220" width="12" height="8" rx="4" fill="#e34c26"/>
 
   <text x="24" y="248" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#e6edf3">Kotlin</text>
-  <text x="456" y="248" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">2.6%</text>
+  <text x="456" y="248" text-anchor="end" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#8b96ad">2.7%</text>
   <rect x="24" y="256" width="320" height="8" rx="4" fill="rgba(148,163,184,0.10)"/>
   <rect x="24" y="256" width="8" height="8" rx="4" fill="#00ADD8"/>
 
-  <text x="24" y="294" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="9" fill="#5b6478">updated 2026-08-18 07:04 UTC · self-hosted</text>
+  <text x="24" y="294" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="9" fill="#5b6478">updated 2026-08-18 18:55 UTC · self-hosted</text>
 </svg>
