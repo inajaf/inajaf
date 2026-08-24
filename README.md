@@ -1,15 +1,3 @@
-<div align="center">
-  <img src="assets/banner.svg" alt="Eldar Najafov - Software Engineer" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/divider.svg" alt="" width="70%" />
-</div>
-
-<br/>
-
 ## ▸ About
 
 Software engineer focused on **production Go**, **distributed systems**, **AI development** and
